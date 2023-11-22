@@ -5681,5 +5681,5 @@ body {
 /* Torrent Status Indicators */
 
 .torrent-status-pill.pill-snatched, .torrent-status-pill.pill-seeding {
-  /* Styles for snatched and seeding torrents */
+  background-color: #ff0000;
 }
